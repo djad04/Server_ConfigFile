@@ -1,1 +1,1 @@
-mathserverrailway-production.up.railway.app/critical_points
+https://mathserverrailway-production.up.railway.app/critical_points
