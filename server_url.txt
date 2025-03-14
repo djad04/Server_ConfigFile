@@ -1,1 +1,1 @@
-mathserverrailway.railway.internal/critical_points
+mathserverrailway-production.up.railway.app/critical_points
